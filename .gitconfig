@@ -1,0 +1,7 @@
+[user]
+	name = AmosMaster
+	email = amoschauke95@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
